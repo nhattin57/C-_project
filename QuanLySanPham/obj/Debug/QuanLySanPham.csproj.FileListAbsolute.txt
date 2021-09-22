@@ -1,0 +1,10 @@
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csprojResolveAssemblyReference.cache
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.Cache
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.frmDanhMuc.resources
+E:\C_Sharp\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.frmSanPham.resources
